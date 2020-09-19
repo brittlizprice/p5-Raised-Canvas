@@ -1,5 +1,6 @@
 # p5-Raised-Canvas
 
+!(raised_canvas.png)
 
 This is a simple p5 extension to make raised canvases in P5, giving sketches a bit more depth.
 
