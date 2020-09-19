@@ -1,6 +1,6 @@
 # p5-Raised-Canvas
 
-[[raised_canvas.png]]
+![An image of a drop shadow with the words "A simple drop shadow canvas for p5"](https://github.com/jasonzli/p5-Raised-Canvas/blob/main/raised_canvas.png)
 
 This is a simple p5 extension to make raised canvases in P5, giving sketches a bit more depth.
 
